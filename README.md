@@ -1,4 +1,4 @@
-- Hello my name is Sam (@samtarkras)
+- Hello my name is Sam Rittwage Scott
 - I am currently a 3rd year computer science undergraduate at the University of Alberta
 - I have experience with most standard languages python, java, C, C# and C++
 - I also am an eager learner as I am unsure in which field of computing I should learn more about
